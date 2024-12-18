@@ -12,6 +12,7 @@ A instalar:
     next.js = npm install next@13.1.6 
     React = npm instal react@18.2.0
     React-Dom = npm instal react-dom@18.2.0
+    Prettier = npm install prettier -D
 
 Criar o manifesto
     npm init - license MIT
@@ -24,3 +25,10 @@ nvm --help para saber configurações
 Mudar configuração padrão com nvm alias default
 
 .nvmrc para instalar todas as dependencias do projeto
+
+ignora arquivos no git com o .gitignore
+
+configurar a estilização com o .editorconfig
+root = true é o que define o diretório final
+
+ignora arquivos no prettier com o .prettierignore
