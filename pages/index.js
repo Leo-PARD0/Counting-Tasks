@@ -1,8 +1,12 @@
 function Home() {
   return (
     <div>
-      <h1>PARE!</h1>
-      <h3>Pense no que você já fez hoje</h3>
+      <section>
+        <h1>PARE!</h1>
+      </section>
+      <section>
+        <h3>Pense no que você já fez hoje</h3>
+      </section>
     </div>
   );
 }
