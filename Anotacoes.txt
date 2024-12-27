@@ -13,6 +13,7 @@ A instalar:
     React = npm instal react@18.2.0
     React-Dom = npm instal react-dom@18.2.0
     Prettier = npm install prettier -D
+    Jest = npm install --save-dev jest@29.6.2
 
 Criar o manifesto
     npm init - license MIT
@@ -32,3 +33,9 @@ configurar a estilização com o .editorconfig
 root = true é o que define o diretório final
 
 ignora arquivos no prettier com o .prettierignore
+
+
+páginas de status dos serviços utilizados neste projeto:
+  Vercel: https://www.vercel-status.com/
+  AWS: https://health.aws.amazon.com/health/status
+  GitHub: https://www.githubstatus.com/
